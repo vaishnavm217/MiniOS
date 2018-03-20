@@ -1,3 +1,9 @@
+/* 
+Author : Kushal Borkar
+Alias : Lashuk1729
+IIIT SriCity
+*/
+
 package osmini;
 import java.awt.BorderLayout;
 import java.awt.Color;
